@@ -12,7 +12,7 @@
 #### 1. API
 * [Django CRUD RESTful API](https://github.com/steve-njuguna-k/Django-CRUD-RESTful-API)
 
-### 2. Full Stack CRUD App (Angular/Django)
+#### 2. Full Stack CRUD App (Angular/Django)
 * [Django Angular Projects Manager](https://github.com/steve-njuguna-k/Django-Angular-Projects-Manager)
 
 #### 3. Django
