@@ -10,7 +10,7 @@
 
 ### Here are some practise projects I would love for you to see
 #### 1. API
-* [Django Authentication API (Register, Log In & Logout Users)](https://github.com/steve-njuguna-k/Django-Secure-Authentication-API)
+* [Django JWT Authentication API (Register, Log In & Logout Users)](https://github.com/steve-njuguna-k/Django-Secure-Authentication-API)
 * [Django CRUD RESTful API](https://github.com/steve-njuguna-k/Django-CRUD-RESTful-API)
 
 #### 2. Full Stack CRUD App (Angular/Django)
