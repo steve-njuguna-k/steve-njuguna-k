@@ -9,28 +9,31 @@
 - 🎵 I love listening to House or Electropop while coding
 
 ### Here are some practise projects I would love for you to see
-#### 1. API
+#### 1. Django REST API
 * [Django JWT Authentication API (Register, Log In & Logout Users)](https://github.com/steve-njuguna-k/Django-Secure-Authentication-API)
 * [Django CRUD RESTful API](https://github.com/steve-njuguna-k/Django-CRUD-RESTful-API)
 
-#### 2. Full Stack CRUD App (Angular/Django)
+#### 2. Django, Ajax, jQuery, Bootstrap & REST API
+* [Django Ajax with Modal Forms using CRUD API](https://github.com/steve-njuguna-k/Django-Ajax-CRUD)
+
+#### 3. Full Stack CRUD App (Angular/Django)
 * [Django Angular Projects Manager](https://github.com/steve-njuguna-k/Django-Angular-Projects-Manager)
 
-#### 3. Django
+#### 4. Django, HTML & Bootstrap
 * [Django Allauth Social Authentication](https://github.com/steve-njuguna-k/Django-Allauth-Social-Authentication)
 * [Django CRUD Operations Using PostgreSQL](https://github.com/steve-njuguna-k/Django-CRUD-Operations-Using-PostgreSQL)
 * [Django Login Register Form](https://github.com/steve-njuguna-k/Django-Login-Register-Form)
 
-#### 4. Angular
+#### 5. Angular
 * [Turu Travels](https://github.com/steve-njuguna-k/Turu-Travels)
 * [Bug Tracker Form](https://github.com/steve-njuguna-k/Bug-Tracker-Form)
 
-#### 5. HTML, Bootstrap, CSS, Javascript & jQuery
+#### 6. HTML, Bootstrap, CSS, Javascript & jQuery
 * [Pizza Cranch](https://github.com/steve-njuguna-k/Pizza-Cranch)
 * [Delani Studio](https://github.com/steve-njuguna-k/Delani-Studio)
 
-#### 6. HTML, CSS & Javascript
+#### 7. HTML, CSS & Javascript
 * [Akan Name Generator](https://github.com/steve-njuguna-k/Akan-Name-Generator)
 
-#### 7. HTML & CSS
+#### 8. HTML & CSS
 * [Personal Portfolio Website](https://github.com/steve-njuguna-k/Personal-Portfolio-Website)
