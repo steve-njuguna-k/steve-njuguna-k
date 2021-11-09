@@ -7,6 +7,7 @@
 - 📰 Constantly following up with the Tech scenes through news articles
 - 🎬 I love watching movies & series
 - 🎵 I love listening to House or Electropop while coding
+- 📁 Check out my portfolio so far [here](https://steve-njuguna.netlify.app)
 
 ### Here are some practise projects I would love for you to see
 #### 1. Django REST API
@@ -31,9 +32,10 @@
 #### 6. HTML, Bootstrap, CSS, Javascript & jQuery
 * [Pizza Cranch](https://github.com/steve-njuguna-k/Pizza-Cranch)
 * [Delani Studio](https://github.com/steve-njuguna-k/Delani-Studio)
+* [Personal Portfolio Website v2](https://github.com/steve-njuguna-k/Portfolio-v2)
 
 #### 7. HTML, CSS & Javascript
 * [Akan Name Generator](https://github.com/steve-njuguna-k/Akan-Name-Generator)
 
 #### 8. HTML & CSS
-* [Personal Portfolio Website](https://github.com/steve-njuguna-k/Personal-Portfolio-Website)
+* [Personal Portfolio Website v1](https://github.com/steve-njuguna-k/Personal-Portfolio-Website)
