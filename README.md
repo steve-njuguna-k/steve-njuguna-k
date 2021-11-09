@@ -7,7 +7,7 @@
 - 📰 Constantly following up with the Tech scenes through news articles
 - 🎬 I love watching movies & series
 - 🎵 I love listening to House or Electropop while coding
-- 📁 Check out my portfolio so far [here](https://steve-njuguna.netlify.app)
+- 📁 Check out my entire portfolio [here](https://steve-njuguna.netlify.app)
 
 ### Here are some practise projects I would love for you to see
 #### 1. Django REST API
