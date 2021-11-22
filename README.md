@@ -28,6 +28,8 @@
 #### 5. Angular
 * [Turu Travels](https://github.com/steve-njuguna-k/Turu-Travels)
 * [Bug Tracker Form](https://github.com/steve-njuguna-k/Bug-Tracker-Form)
+* [Inspiring Quotes Application](https://github.com/steve-njuguna-k/Angular-Quotes-App)
+* [Goals/To-Do List App](https://github.com/steve-njuguna-k/Angular-Goals-App)
 
 #### 6. HTML, Bootstrap, CSS, Javascript & jQuery
 * [Pizza Cranch](https://github.com/steve-njuguna-k/Pizza-Cranch)
