@@ -27,7 +27,7 @@
 
 #### 5. Angular
 * [Angular Github Search App](https://github.com/steve-njuguna-k/Angular-Github-Search-App)
-* [Angular-GIPHY-Clone](https://github.com/steve-njuguna-k/Angular-GIPHY-Clone)
+* [Angular GIPHY Clone](https://github.com/steve-njuguna-k/Angular-GIPHY-Clone)
 * [Inspiring Quotes Application](https://github.com/steve-njuguna-k/Angular-Quotes-App)
 * [Goals/To-Do List App](https://github.com/steve-njuguna-k/Angular-Goals-App)
 * [Turu Travels](https://github.com/steve-njuguna-k/Turu-Travels)
