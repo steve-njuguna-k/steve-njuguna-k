@@ -1,6 +1,6 @@
 # Hello, I'm Steve 👋
 - 💪 I'm an ambitious Junior Python/Django developer
-- 🕒 Been coding for the past 6 months. I'm truly happy with the progress
+- 🕒 Been coding for the past 8 months. I'm truly happy with the progress
 - ✔️ Fluent in HTML, CSS & Bootstrap. Knowlegable in Javascript & some jQuery too
 - 💻 Currently perfecting my backend skills in Python, Django, API Development (Django Rest Framweork) while learning some front-end frameworks like Angular
 - 📈 Passonate on someday building scalable solutions such as SAAS platforms
@@ -25,7 +25,11 @@
 * [Django CRUD Operations Using PostgreSQL](https://github.com/steve-njuguna-k/Django-CRUD-Operations-Using-PostgreSQL)
 * [Django Login Register Form](https://github.com/steve-njuguna-k/Django-Login-Register-Form)
 
-#### 5. Angular
+#### 5. Flask, Bootstrap, HTML & CSS
+* [Flask News App](https://github.com/steve-njuguna-k/Flask-News-App)
+* [Flask Pitch Deck](https://github.com/steve-njuguna-k/Flask-Pitch-Deck)
+
+#### 6. Angular
 * [Angular Github Search App](https://github.com/steve-njuguna-k/Angular-Github-Search-App)
 * [Angular GIPHY Clone](https://github.com/steve-njuguna-k/Angular-GIPHY-Clone)
 * [Inspiring Quotes Application](https://github.com/steve-njuguna-k/Angular-Quotes-App)
@@ -33,13 +37,16 @@
 * [Turu Travels](https://github.com/steve-njuguna-k/Turu-Travels)
 * [Bug Tracker Form](https://github.com/steve-njuguna-k/Bug-Tracker-Form)
 
-#### 6. HTML, Bootstrap, CSS, Javascript & jQuery
+#### 7. Python CMD
+* [Python Password Locker](https://github.com/steve-njuguna-k/Python-Password-Locker)
+
+#### 8. HTML, Bootstrap, CSS, Javascript & jQuery
 * [Pizza Cranch](https://github.com/steve-njuguna-k/Pizza-Cranch)
 * [Delani Studio](https://github.com/steve-njuguna-k/Delani-Studio)
 * [Personal Portfolio Website v2](https://github.com/steve-njuguna-k/Portfolio-v2)
 
-#### 7. HTML, CSS & Javascript
+#### 9. HTML, CSS & Javascript
 * [Akan Name Generator](https://github.com/steve-njuguna-k/Akan-Name-Generator)
 
-#### 8. HTML & CSS
+#### 10. HTML & CSS
 * [Personal Portfolio Website v1](https://github.com/steve-njuguna-k/Personal-Portfolio-Website)
