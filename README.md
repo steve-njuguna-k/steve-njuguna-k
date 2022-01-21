@@ -28,6 +28,8 @@
 #### 5. Flask, Bootstrap, HTML & CSS
 * [Flask News App](https://github.com/steve-njuguna-k/Flask-News-App)
 * [Flask Pitch Deck](https://github.com/steve-njuguna-k/Flask-Pitch-Deck)
+* [Flask Blog](https://github.com/steve-njuguna-k/Flask-Blog)
+* [Flask Bug Tracker](https://github.com/steve-njuguna-k/Flask-Bug-Tracker)
 
 #### 6. Angular
 * [Angular Github Search App](https://github.com/steve-njuguna-k/Angular-Github-Search-App)
