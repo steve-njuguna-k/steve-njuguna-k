@@ -21,6 +21,7 @@
 * [Django Angular Projects Manager](https://github.com/steve-njuguna-k/Django-Angular-Projects-Manager)
 
 #### 4. Django, HTML & Bootstrap
+* [Django Photo Gallery](https://github.com/steve-njuguna-k/Django-Gallery)
 * [Django Allauth Social Authentication](https://github.com/steve-njuguna-k/Django-Allauth-Social-Authentication)
 * [Django CRUD Operations Using PostgreSQL](https://github.com/steve-njuguna-k/Django-CRUD-Operations-Using-PostgreSQL)
 * [Django Login Register Form](https://github.com/steve-njuguna-k/Django-Login-Register-Form)
