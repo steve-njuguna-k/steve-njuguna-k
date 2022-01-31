@@ -10,15 +10,16 @@
 - 📁 Check out my entire portfolio [here](https://steve-njuguna.netlify.app)
 
 ### Here are some practise projects I would love for you to see
-#### 1. Django REST API
+#### 1. Full Stack Apps
+* [Django Angular Projects Manager](https://github.com/steve-njuguna-k/Django-Angular-Projects-Manager)
+* [Django Property Management System](https://propertize.herokuapp.com/)
+
+#### 2. Django REST API
 * [Django JWT Authentication API (Register, Log In & Logout Users)](https://github.com/steve-njuguna-k/Django-Secure-Authentication-API)
 * [Django CRUD RESTful API](https://github.com/steve-njuguna-k/Django-CRUD-RESTful-API)
 
-#### 2. Django, Ajax, jQuery, Bootstrap & REST API
+#### 3. Django, Ajax, jQuery, Bootstrap & REST API
 * [Django Ajax with Modal Forms using CRUD API](https://github.com/steve-njuguna-k/Django-Ajax-CRUD)
-
-#### 3. Full Stack CRUD App (Angular/Django)
-* [Django Angular Projects Manager](https://github.com/steve-njuguna-k/Django-Angular-Projects-Manager)
 
 #### 4. Django, HTML & Bootstrap
 * [Django Photo Gallery](https://github.com/steve-njuguna-k/Django-Gallery)
