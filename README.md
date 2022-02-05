@@ -2,7 +2,8 @@
 - 💪 I'm an ambitious Python/Django developer
 - 🕒 Been coding for the past 8 months. I'm truly happy with the progress
 - ✔️ Fluent in HTML, CSS & Bootstrap. Knowlegable in Javascript & some jQuery too
-- 💻 Currently perfecting my backend skills in Python, Django, API Development (Django Rest Framweork) while learning some front-end frameworks like Angular
+- 📚 Currently perfecting my backend skills in Python, Django, API Development (Django Rest Framweork) while learning some front-end frameworks like Angular
+- 💻 Trying to master data structures & algorithms
 - 📈 Passonate on someday building scalable solutions such as SAAS platforms
 - 📰 Constantly following up with the Tech scenes through news articles
 - 🎬 I love watching movies & series
