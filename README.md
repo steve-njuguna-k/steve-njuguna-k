@@ -23,6 +23,7 @@
 * [Django Ajax with Modal Forms using CRUD API](https://github.com/steve-njuguna-k/Django-Ajax-CRUD)
 
 #### 4. Django, HTML & Bootstrap
+* [Django Instagram Clone](https://github.com/steve-njuguna-k/Django-Instagram-Clone)
 * [Django Photo Gallery](https://github.com/steve-njuguna-k/Django-Gallery)
 * [Django Netflix Clone](https://github.com/steve-njuguna-k/Django-Netflix-Clone)
 * [Django Allauth Social Authentication](https://github.com/steve-njuguna-k/Django-Allauth-Social-Authentication)
