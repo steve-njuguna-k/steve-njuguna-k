@@ -1,6 +1,6 @@
 # Hello, I'm Steve 👋
 - 💪 I'm an ambitious Python/Django developer
-- 🕒 Been coding for the past 8 months. I'm truly happy with the progress
+- 🕒 Been coding for the past 9 months. I'm truly happy with the progress
 - ✔️ Fluent in HTML, CSS & Bootstrap. Knowlegable in Javascript & some jQuery too
 - 📚 Currently perfecting my backend skills in Python, Django, API Development (Django Rest Framweork) while learning some front-end frameworks like Angular
 - 💻 Trying to master data structures & algorithms
@@ -23,6 +23,7 @@
 * [Django Ajax with Modal Forms using CRUD API](https://github.com/steve-njuguna-k/Django-Ajax-CRUD)
 
 #### 4. Django, HTML & Bootstrap
+* [Django Project Station](https://github.com/steve-njuguna-k/Django-Awwwards-Clone)
 * [Django Instagram Clone](https://github.com/steve-njuguna-k/Django-Instagram-Clone)
 * [Django Photo Gallery](https://github.com/steve-njuguna-k/Django-Gallery)
 * [Django Netflix Clone](https://github.com/steve-njuguna-k/Django-Netflix-Clone)
