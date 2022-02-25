@@ -23,6 +23,8 @@
 * [Django Ajax with Modal Forms using CRUD API](https://github.com/steve-njuguna-k/Django-Ajax-CRUD)
 
 #### 4. Django, HTML & Bootstrap
+* [Kenya ePolice](https://github.com/steve-njuguna-k/Kenya-ePolice)
+* [Django Neighbourhoods (Nyumba Kumi)](https://github.com/steve-njuguna-k/Django-Neighbourhood)
 * [Django Project Station](https://github.com/steve-njuguna-k/Django-Awwwards-Clone)
 * [Django Instagram Clone](https://github.com/steve-njuguna-k/Django-Instagram-Clone)
 * [Django Photo Gallery](https://github.com/steve-njuguna-k/Django-Gallery)
