@@ -8,6 +8,7 @@
 - 📰 Constantly following up with the Tech scenes through news articles
 - 🎬 I love watching movies & series
 - 🎵 I love listening to House or Electropop while coding
+- 🏎️ Formulae 1 all the way
 - 📁 Check out my entire portfolio [here](https://steve-njuguna.netlify.app)
 
 ### Here are some practise projects I would love for you to see
