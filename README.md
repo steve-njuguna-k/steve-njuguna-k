@@ -1,6 +1,6 @@
 # Hello, I'm Steve 👋
 - 💪 I'm an ambitious Python/Django developer
-- 🕒 Been coding for the past 10 months. I'm truly happy with the progress
+- 🕒 Been coding for the past 11 months. I'm truly happy with the progress
 - ✔️ Fluent in HTML, CSS & Bootstrap. Knowlegable in Javascript & some jQuery too
 - 📚 Currently perfecting my backend skills in Python, Django, API Development (Django Rest Framweork) while learning some front-end frameworks like Angular
 - 💻 Trying to master data structures & algorithms
