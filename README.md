@@ -1,13 +1,13 @@
 # Hello, I'm Steve 👋
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steve-njuguna-k.visitor-badge)
-- 💪 I'm an ambitious Python/Django developer
+- 💪 Python/Django developer at your service
 - 🕒 Been coding for the past 1 year and 7 months. I'm truly happy with the progress
 - 💻 Mastering data structures & algorithms (work in progress)
 - 📈 Passonate on someday building scalable solutions such as SAAS platforms
 - 📰 Constantly following up with the Tech scenes through news articles
 - 🎬 I love watching movies & series
-- 🎵 I love listening to House or Electropop while coding
-- 🏎️ Formulae 1 all the way
+- 🎵 I love listening to House, Pop-EDM or Electropop while coding
+- 🏎️ Formula 1 fan all the way
 - 📁 Check out my entire portfolio [here](https://steve-njuguna.netlify.app)
 
 ### Current Stack & Tools
