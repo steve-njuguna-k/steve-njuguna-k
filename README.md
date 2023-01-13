@@ -81,7 +81,7 @@
 #### 8. HTML, Bootstrap, CSS, Javascript & jQuery
 * [Pizza Cranch](https://github.com/steve-njuguna-k/Pizza-Cranch)
 * [Delani Studio](https://github.com/steve-njuguna-k/Delani-Studio)
-* [Personal Portfolio Website v2](https://github.com/steve-njuguna-k/Portfolio-v2)
+* [Personal Portfolio Website v2](https://steve-njuguna.netlify.app)
 
 #### 9. HTML, CSS & Javascript
 * [Akan Name Generator](https://github.com/steve-njuguna-k/Akan-Name-Generator)
