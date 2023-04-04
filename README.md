@@ -1,7 +1,7 @@
 # Hello, I'm Steve 👋
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steve-njuguna-k.visitor-badge)
 - 💪 Python/Django developer at your service
-- 🕒 Been coding for the past 1 year and 7 months. I'm truly happy with the progress
+- 🕒 Been coding for the past 2 years. I'm truly happy with the progress
 - 💻 Mastering data structures & algorithms (work in progress)
 - 📈 Passonate on someday building scalable solutions such as SAAS platforms
 - 📰 Constantly following up with the Tech scenes through news articles
