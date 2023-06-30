@@ -1,5 +1,5 @@
 # Hello, I'm Steve 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steve-njuguna-k.visitor-badge)
+![](https://komarev.com/ghpvc/?username=your-github-steve-njuguna-k&label=Profile+Views&style=flat-square)
 - 💪 Python/Django developer at your service
 - ☁️ Cloud DevOps engineer in the making
 - 🕒 Been coding for the past 2 years. I'm truly happy with the progress
