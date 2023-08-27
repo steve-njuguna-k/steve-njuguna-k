@@ -10,6 +10,8 @@
 - 🎵 I love listening to House, Pop-EDM or Electropop while coding
 - 🏎️ Formula 1 fan all the way
 - 📁 Check out my entire portfolio [here](https://steve-njuguna.netlify.app)
+- 👨‍💻 Some Django projects I have worked on before [here](https://github.com/stars/steve-njuguna-k/lists/django)
+- 👨‍💻 Some Angular projects I have worked on before [here](https://github.com/stars/steve-njuguna-k/lists/angular)
 
 ### Current Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
