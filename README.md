@@ -1,7 +1,7 @@
 # Hello, I'm Steve 👋
 ![](https://komarev.com/ghpvc/?username=your-github-steve-njuguna-k&label=Profile+Views&style=flat-square)
 - 💪 Python/Django developer at your service
-- ☁️ Cloud DevOps engineer, Site Reliability Engineer, Platform Engineer in the making
+- ☁️ Cloud DevOps engineer, Platform Engineer in the making
 - 🕒 Been coding for the past 2 years. I'm truly happy with the progress
 - 💻 Mastering data structures & algorithms (work in progress)
 - 📈 Passonate on someday building scalable solutions such as SAAS platforms
