@@ -2,18 +2,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-steve-njuguna-k&label=Profile+Views&style=flat-square)
 - 💪 Python/Django developer at your service
 - ☁️ Cloud DevOps engineer, Platform Engineer in the making
-- 🕒 Been coding for the past 2 years. I'm truly happy with the progress
-- 💻 Mastering data structures & algorithms (work in progress)
 - 📈 Passonate on someday building scalable solutions such as SAAS platforms
 - 📰 Constantly following up with the Tech scenes through news articles
 - 🎬 I love watching movies & series
 - 🎵 I love listening to House, Pop-EDM or Electropop while coding
 - 🏎️ Formula 1 fan all the way
-- 📁 Check out my entire portfolio [here](https://steve-njuguna.netlify.app)
-- 👨‍💻 Some Django projects I have worked on before [here](https://github.com/stars/steve-njuguna-k/lists/django)
-- 👨‍💻 Some Angular projects I have worked on before [here](https://github.com/stars/steve-njuguna-k/lists/angular)
 
-### Current Stack & Tools
+### Application Development Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,7 +37,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Incoming Stack & Tools
+### Cloud DevOps Stack & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
